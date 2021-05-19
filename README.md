@@ -1,8 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ned!
 🌱 I’m currently learning HTML, CSS, JavaScript.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/NedMarafawi?label=Documenting%20my%20journey&style=social)
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/NedMarafawi?label=Documenting%20my%20journey&style=social)](https://https://twitter.com/intent/follow?screen_name=nedmarafawi)
 
 
 🧰 Toolbox
