@@ -6,9 +6,9 @@
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="HTML logo" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="HTML logo" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="HTML logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="HTML logo" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="HTML logo" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="HTML logo" width="40" height="40">
 <!--
 **NedMarafawi/NedMarafawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img class="emoji" alt="memo" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">
 -->
