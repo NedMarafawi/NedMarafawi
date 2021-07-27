@@ -4,9 +4,9 @@ A Front-End Developer based out of Montreal, Canada.
 
 Now, I’m currently: <br>
 
-  🌱 doing a Full-Stack at Concordia Bootcamps <br>
-  :computer: building a portfolio <br>
-  :rocket: love blockchain
+  * 🌱 doing a Full-Stack at Concordia Bootcamps <br>
+  * :computer: building a portfolio <br>
+  * :rocket: love blockchain
 
 #
 Tools:
