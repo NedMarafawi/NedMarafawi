@@ -17,7 +17,7 @@ Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="HTML logo" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="HTML logo" width="40" height="40">
 #
-If you'd like to stay up to date with me, you can follow me on <a href="https://twitter.com/nedscode">Twitter</a>
+If you'd like to stay up to date with me, you can follow me on <a href="https://twitter.com/nedscode">Twitter @nedcode</a>
 
 
 
