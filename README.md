@@ -1,6 +1,6 @@
 # Hi, I'm Ned! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-A Front-End Developer based out of Montreal, Canada.
+A Front-end Developer based out of Montreal, Canada.
 
 Now, I’m currently: <br>
 
