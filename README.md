@@ -20,7 +20,7 @@ Languages and Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="HTML logo" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="HTML logo" width="40" height="40">
 #
-If you'd like to stay up to date with me, you can follow me on Twitter <a href="https://twitter.com/nedscode">@nedscode</a>
+If you'd like to stay up to date with me, you can follow me on Twitter <a href="https://twitter.com/nedmarafawi">@nedmarafawi</a>
 
 
 
