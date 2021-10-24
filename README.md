@@ -14,11 +14,14 @@ Languages and Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="HTML logo" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="HTML logo" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="HTML logo" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="HTML logo" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="HTML logo" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="HTML logo" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="HTML logo" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="HTML logo" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="HTML logo" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="HTML logo" width="40" height="40">
+
+
 #
 If you'd like to stay up to date with me, you can follow me on Twitter <a href="https://twitter.com/nedmarafawi">@nedmarafawi</a>
 
