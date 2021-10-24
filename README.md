@@ -4,7 +4,7 @@ A Frontend Developer based out of Montreal, Canada.
 
 Now, I’m currently: <br>
 
-  * 🎓 I recently graduated from a Full-Stack Web Development at <a href="https://twitter.com/concordia_btcmp" target="_blank">@concordia_btcmp</a> <br>
+  * 🎓 graduated from a Full-Stack Web Development at <a href="https://twitter.com/concordia_btcmp" target="_blank">@concordia_btcmp</a> <br>
   * :computer: building a portfolio <br>
   * :rocket: love anything related to blockchain and cryptocurrency
 
