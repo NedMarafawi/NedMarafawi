@@ -31,6 +31,48 @@ A Frontend Developer based out of Montreal, Canada.
 </a>
 
 
+<details>
+ <a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="HTML logo" width="auto" height="auto">
+</a>
+<a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="HTML logo" width="auto" height="auto">
+</a>
+<a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white" alt="HTML logo" width="auto" height="auto">
+</a>
+<a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="HTML logo" width="auto" height="auto">
+</a>
+<a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="HTML logo" width="auto" height="auto">
+</a>
+<a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="HTML logo" width="auto" height="auto">
+</a>
+<a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="HTML logo" width="auto" height="auto">
+</a>
+
+
+<a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" alt="HTML logo" width="auto" height="auto">
+</a>
+
+<a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" alt="HTML logo" width="auto" height="auto">
+</a>
+
+<a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/iTerm-000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="HTML logo" width="auto" height="auto">
+</a>
+ 
+ <summary>
+  💻 My workspace
+ </summary>
+ </details>
+
+
  <details>
  <a href="https://nedcode.com">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JAVS logo" width="auto" height="auto">
@@ -133,40 +175,7 @@ A Frontend Developer based out of Montreal, Canada.
 
 
 
-<!-- <a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="HTML logo" width="auto" height="auto">
-</a>
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="HTML logo" width="auto" height="auto">
-</a>
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white" alt="HTML logo" width="auto" height="auto">
-</a>
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="HTML logo" width="auto" height="auto">
-</a>
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="HTML logo" width="auto" height="auto">
-</a>
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="HTML logo" width="auto" height="auto">
-</a>
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="HTML logo" width="auto" height="auto">
-</a>
 
-
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" alt="HTML logo" width="auto" height="auto">
-</a>
-
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" alt="HTML logo" width="auto" height="auto">
-</a>
-
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/iTerm-000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="HTML logo" width="auto" height="auto">
-</a> -->
 
 #
 If you'd like to stay up to date with me, you can follow me on Twitter <a href="https://twitter.com/nedmarafawi">@nedmarafawi</a>
