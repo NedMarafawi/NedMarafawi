@@ -2,14 +2,30 @@
 
 A Frontend Developer based out of Montreal, Canada.
 
-Now, I’m currently: <br>
+Currently: <br>
 
-  * 🎓 graduated from a Full-Stack Web Development at <a href="https://twitter.com/concordia_btcmp" target="_blank">@concordia_btcmp</a> <br>
-  * :computer: building a portfolio <br>
-  * :rocket: love anything related to blockchain and cryptocurrency
+  * 🎓 Graduated from a Full-Stack Web Development at <a href="https://twitter.com/concordia_btcmp" target="_blank">@concordia_btcmp</a> <br>
+  * :computer: Working on my portfolio
+  * :rocket: Love anything related to blockchain and cryptocurrency
 
-#
-Languages and Tools:
+### Connect with me:
+<a href="https://twitter.com/nedmarafawi">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="HTML logo" width="auto" height="auto">
+</a>
+<a href="https://www.linkedin.com/in/nedmarafawi/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="HTML logo" width="auto" height="auto">
+</a>
+<a href="https://www.polywork.com/nedmarafawi">
+<img src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white" alt="HTML logo" width="auto" height="auto">
+</a>
+<a href="https://www.instagram.com/nedmarafawi/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="HTML logo" width="auto" height="auto">
+</a>
+
+
+
+
+### Languages and Tools:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="HTML logo" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="HTML logo" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="HTML logo" width="40" height="40">
