@@ -10,7 +10,7 @@ A Frontend Developer based out of Montreal, Canada.
 
 
 
-### Connect with me:
+#### Connect with me:
 <a href="https://nedcode.com">
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
@@ -31,70 +31,110 @@ A Frontend Developer based out of Montreal, Canada.
 </a>
 
 
-
-
-### Languages and Tools:
-
-
+ <details>
+ <a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JAVS logo" width="auto" height="auto">
+</a>
+ 
 <a href="https://nedcode.com">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="HTML logo" width="auto" height="auto">
+ 
+ <a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS logo" width="auto" height="auto">
 </a>
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="HTML logo" width="auto" height="auto">
+ 
+ <a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="HTML logo" width="auto" height="auto">
 </a>
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="HTML logo" width="auto" height="auto">
-</a>
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="HTML logo" width="auto" height="auto">
-</a>
-<a href="https://nedcode.com">
+ 
+ <a href="https://nedcode.com">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
-<a href="https://nedcode.com">
+ 
+ <a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="HTML logo" width="auto" height="auto">
+</a>
+ 
+ <a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="HTML logo" width="auto" height="auto">
+</a>
+ 
+ <a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="HTML logo" width="auto" height="auto">
+</a>
+ 
+ <a href="https://nedcode.com">
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
+ 
 <a href="https://nedcode.com">
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="HTML logo" width="auto" height="auto">
+ 
+ <a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="HTML logo" width="auto" height="auto">
+ 
+ <a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
-<a href="https://nedcode.com">
+ 
+ <a href="https://nedcode.com">
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
+ 
 <a href="https://nedcode.com">
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
+ 
 <a href="https://nedcode.com">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
+ 
 <a href="https://nedcode.com">
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="HTML logo" width="auto" height="auto">
-</a>
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" alt="HTML logo" width="auto" height="auto">
-</a>
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white" alt="HTML logo" width="auto" height="auto">
-</a>
-<a href="https://nedcode.com">
+ 
+ <a href="https://nedcode.com">
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="HTML logo" width="auto" height="auto">
+ 
+ <a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="HTML logo" width="auto" height="auto">
 </a>
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="HTML logo" width="auto" height="auto">
+ 
+ <a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="HTML logo" width="auto" height="auto">
+</a>
+ 
+ <a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="HTML logo" width="auto" height="auto">
+</a>
+ 
+ <a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white" alt="HTML logo" width="auto" height="auto">
+</a>
+ <summary>
+ 🧰 Languages and Tools
+ </summary>
+ </details>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
 <a href="https://nedcode.com">
 <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="HTML logo" width="auto" height="auto">
@@ -114,27 +154,19 @@ A Frontend Developer based out of Montreal, Canada.
 <a href="https://nedcode.com">
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="HTML logo" width="auto" height="auto">
-</a>
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="HTML logo" width="auto" height="auto">
-</a>
+
+
 <a href="https://nedcode.com">
 <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" alt="HTML logo" width="auto" height="auto">
 </a>
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="HTML logo" width="auto" height="auto">
-</a>
+
 <a href="https://nedcode.com">
 <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
-<a href="https://nedcode.com">
-<img src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white" alt="HTML logo" width="auto" height="auto">
-</a>
+
 <a href="https://nedcode.com">
 <img src="https://img.shields.io/badge/iTerm-000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="HTML logo" width="auto" height="auto">
-</a>
+</a> -->
 
 #
 If you'd like to stay up to date with me, you can follow me on Twitter <a href="https://twitter.com/nedmarafawi">@nedmarafawi</a>
