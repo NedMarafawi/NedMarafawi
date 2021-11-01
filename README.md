@@ -67,6 +67,12 @@ A Frontend Developer based out of Montreal, Canada.
 <img src="https://img.shields.io/badge/iTerm-000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
  
+ <a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="HTML logo" width="auto" height="auto">
+</a>
+ 
+
+ 
  <summary>
   💻 My workspace
  </summary>
@@ -156,6 +162,11 @@ A Frontend Developer based out of Montreal, Canada.
  
  <a href="https://nedcode.com">
 <img src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white" alt="HTML logo" width="auto" height="auto">
+</a>
+ 
+ 
+  <a href="https://nedcode.com">
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
  <summary>
  🧰 Languages and Tools
