@@ -3,7 +3,6 @@
 A Frontend Developer based out of Montreal, Canada.
 
   * 🎓 I recently graduated from Full-Stack Web Development at <a href="https://twitter.com/concordia_btcmp" target="_blank">@concordia_btcmp</a> <br>
-  * 🔍 I'm currently looking for a new job opportunities since I'm new to this industry 
   * :computer: Working on my portfolio and buildspace.so projects
   * 💬 Ask me about Web Development, Web3, Blockchain, Crypto, NFTs
   * 📽 Fun fact: I'm a huge fan of Christopher Nolan movie's and Hans Zimmer music
