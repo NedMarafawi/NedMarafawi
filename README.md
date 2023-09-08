@@ -1,9 +1,13 @@
-# Hi, I'm Ned! <span class="wave">👋</span>
+# Hi, I'm Ned!
 
 Frontend Dev based out of Montreal, Canada.
 
-  * :computer: Working on my portfolio and building custom key█████
-  * 📽 Huge fan of Christopher Nolan, Hans Zimmer and Ludwig Göransson
+  *  Working on `my portfolio` and `building custom key██████`
+
+ >  :movie_camera: ***Christopher Nolan,*** :musical_note: ***Hans Zimmer,*** :musical_score: ***Ludwig Göransson***
+
+
+    
 
 <!--
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -31,26 +35,26 @@ Frontend Dev based out of Montreal, Canada.
  <br>
 <!-- </a> -->
  <summary>
-  💻 My workspace
+  💻 Workspace
  </summary>
  </details>
 
 
-#### Connect with me:
+#### Connect with :shipit:
 <a href="https://nedcode.com">
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
 <a href="https://twitter.com/nedmarafawi">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
-<a href="https://www.polywork.com/nedmarafawi">
-<img src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white" alt="HTML logo" width="auto" height="auto">
-</a>
 <a href="https://www.instagram.com/nedmarafawi/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
 <a href="https://www.reddit.com/user/nedcode">
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="HTML logo" width="auto" height="auto">
+</a>
+<a href="https://www.polywork.com/nedmarafawi">
+<img src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
 
 #
