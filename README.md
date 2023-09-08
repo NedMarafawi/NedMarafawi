@@ -1,13 +1,40 @@
 # Hi, I'm Ned! <span class="wave">👋</span>
 
-A Frontend Developer based out of Montreal, Canada.
+Frontend Dev based out of Montreal, Canada.
 
-  * :computer: Working on my portfolio and buildspace.so projects
-  * 📽 Huge fan of Christopher Nolan movie's and Hans Zimmer music
+  * :computer: Working on my portfolio and building custom key█████
+  * 📽 Huge fan of Christopher Nolan, Hans Zimmer and Ludwig Göransson
 
 <!--
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 -->
+
+<details>
+ 
+<!--  <a href="https://nedcode.com"> -->
+<br>
+<img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="HTML logo" width="auto" height="auto">
+<br>
+<img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="HTML logo" width="auto" height="auto">
+  <br>
+<img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="HTML logo" width="auto" height="auto">
+<br>
+ <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="HTML logo" width="auto" height="auto">
+ <br>
+  <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" alt="HTML logo" width="auto" height="auto">
+ <br>
+ <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="HTML logo" width="auto" height="auto">
+ <br>
+ <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="HTML logo" width="auto" height="auto">
+ <br>
+ <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="HTML logo" width="auto" height="auto">
+ <br>
+<!-- </a> -->
+ <summary>
+  💻 My workspace
+ </summary>
+ </details>
+
 
 #### Connect with me:
 <a href="https://nedcode.com">
@@ -15,9 +42,6 @@ A Frontend Developer based out of Montreal, Canada.
 </a>
 <a href="https://twitter.com/nedmarafawi">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="HTML logo" width="auto" height="auto">
-</a>
-<a href="https://www.linkedin.com/in/nedmarafawi/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
 <a href="https://www.polywork.com/nedmarafawi">
 <img src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white" alt="HTML logo" width="auto" height="auto">
@@ -29,49 +53,10 @@ A Frontend Developer based out of Montreal, Canada.
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
 
+#
+If you'd like to stay up to date with me, you can follow me on Twitter <a href="https://twitter.com/nedmarafawi">@nedmarafawi</a>
 
-<details>
- 
-<!--  <a href="https://nedcode.com"> -->
- <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="HTML logo" width="auto" height="auto">
-  <br>
- <img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white" alt="HTML logo" width="auto" height="auto">
-  <br>
- <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="HTML logo" width="auto" height="auto">
- <br>
-  <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" alt="HTML logo" width="auto" height="auto">
- <br>
- <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="HTML logo" width="auto" height="auto">
- <br>
- <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" alt="HTML logo" width="auto" height="auto">
- <br>
- <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="HTML logo" width="auto" height="auto">
- <br>
- <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="HTML logo" width="auto" height="auto">
- <br>
- <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="HTML logo" width="auto" height="auto">
- <br>
- <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="HTML logo" width="auto" height="auto">
- <br>
- <img src="https://img.shields.io/badge/iTerm-000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="HTML logo" width="auto" height="auto">
-<!-- </a> -->
- 
-
- 
-
-
-
-
-
- 
-
- 
- <summary>
-  💻 My workspace
- </summary>
- </details>
-
-
+<!--
  <details>
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JAVS logo" width="auto" height="auto">
@@ -112,24 +97,10 @@ A Frontend Developer based out of Montreal, Canada.
  🧰 Languages and Tools
  </summary>
  </details>
- 
+ -->
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-#
-If you'd like to stay up to date with me, you can follow me on Twitter <a href="https://twitter.com/nedmarafawi">@nedmarafawi</a>
 
 
 
