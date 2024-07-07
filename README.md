@@ -58,7 +58,7 @@ Frontend Dev based out of Montreal, Canada.
 </a>
 
 #
-If you'd like to stay up to date with me, you can follow me on Threads <a href="@nedmarafawi@threads.net">@nedmarafawi</a>
+If you'd like to stay up to date with me, you can follow me on Threads <a href="[@nedmarafawi@threads.net](https://www.threads.net/@nedmarafawi)">@nedmarafawi</a>
 
 <!--
  <details>
