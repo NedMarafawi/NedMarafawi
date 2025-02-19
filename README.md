@@ -17,19 +17,19 @@ Frontend Dev based out of Montreal, Canada.
  
 <!--  <a href="https://nedcode.com"> -->
 <br>
-<img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="HTML logo" width="auto" height="auto">
-<br>
-<img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="HTML logo" width="auto" height="auto">
+<img src="https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white" alt="HTML logo" width="auto" height="auto">
   <br>
 <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="HTML logo" width="auto" height="auto">
 <br>
- <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="HTML logo" width="auto" height="auto">
- <br>
   <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" alt="HTML logo" width="auto" height="auto">
+ <br>
+  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="HTML logo" width="auto" height="auto">
  <br>
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="HTML logo" width="auto" height="auto">
  <br>
- <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="HTML logo" width="auto" height="auto">
+ <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="HTML logo" width="auto" height="auto">
+ <br>
+ <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="HTML logo" width="auto" height="auto">
  <br>
  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="HTML logo" width="auto" height="auto">
  <br>
@@ -44,18 +44,16 @@ Frontend Dev based out of Montreal, Canada.
 <a href="https://nedcode.com">
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
-<a href="https://twitter.com/nedmarafawi">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="HTML logo" width="auto" height="auto">
-</a>
 <a href="https://www.instagram.com/nedmarafawi/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
 <a href="https://www.reddit.com/user/nedcode">
-<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="HTML logo" width="auto" height="auto">
+<img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
-<a href="https://www.polywork.com/nedmarafawi">
-<img src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white" alt="HTML logo" width="auto" height="auto">
+<a href="https://twitter.com/nedmarafawi">
+<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="HTML logo" width="auto" height="auto">
 </a>
+
 
 #
 If you'd like to stay up to date with me, you can follow me on Threads <a href="https://www.threads.net/@nedmarafawi">@nedmarafawi</a>
