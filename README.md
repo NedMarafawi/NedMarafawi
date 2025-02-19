@@ -51,7 +51,7 @@ Frontend Dev based out of Montreal, Canada.
 <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="HTML logo" width="auto" height="auto"></a>
 
 #
-If you'd like to stay up to date with me, you can follow me on Threads <a href="https://www.threads.net/@nedmarafawi">@nedmarafawi</a>
+If you'd like to stay up to date with me, you can follow me on Threads @<a href="https://www.threads.net/@nedmarafawi">nedmarafawi</a>
 
 <!--
  <details>
